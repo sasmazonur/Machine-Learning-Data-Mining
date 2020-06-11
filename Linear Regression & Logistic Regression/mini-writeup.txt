@@ -1,0 +1,2 @@
+The accuracy for both the training and testing data tends to dip for the first few gradient descent iterations, but begins to increase rapidly after the initial dip. 
+The learning rate used was less than 0.1.
